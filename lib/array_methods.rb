@@ -1,5 +1,14 @@
 def using_include(array, element)
+<<<<<<< HEAD
   array.include?(element)
+=======
+  array.include?("wow")
+  
+end
+
+def using_include(array, element)
+  array.include?("Tardis")
+>>>>>>> 6bd15a6eab4ff9f8c00e8cef3423987fcec680f7
   
 end
 
